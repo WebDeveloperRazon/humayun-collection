@@ -1,0 +1,14 @@
+.main{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:1.5rem ;
+    margin:1rem ;
+    width: 70%;
+}
+.container {
+    display:flex ;
+
+}
+.price{
+    
+}

@@ -1,0 +1,22 @@
+.cart{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    min-width: 150px;
+    text-align: center;
+    padding-bottom: 20px;
+
+ 
+
+    
+    
+}
+
+.cart button{
+    padding:5px 20px ;
+    
+}
+.cart button:hover{
+    background-color:black ;
+    color : white ; 
+    border-radius: 5px;
+}
+  
